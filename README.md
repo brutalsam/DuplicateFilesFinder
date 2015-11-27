@@ -1,3 +1,3 @@
 # DuplicateFilesFinder
 Test task for Altium company interview
-test commit for push1
+test commit for push for autoCrLf 
